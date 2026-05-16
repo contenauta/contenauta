@@ -28,7 +28,7 @@ Puoi generare il calendario per i mesi successivi senza ricominciare da capo, e 
 
 ### 1. Scarica il file
 
-Vai alla sezione [Releases](../../releases) di questo repository e scarica il file `contenauta.html` dall'ultima versione disponibile.
+Vai alla sezione [Releases](../../releases) di questo repository e scarica il file `[contenauta.html](https://github.com/contenauta/contenauta/blob/main/contenauta.html)` dall'ultima versione disponibile.
 
 ### 2. Apri Claude.ai
 
